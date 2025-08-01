@@ -2,3 +2,4 @@
 *.hoge filter=lfs diff=lfs merge=lfs -text
 *.fuga filter=lfs diff=lfs merge=lfs -text
 *.piyo filter=lfs diff=lfs merge=lfs -text
+Assets/LargeFiles/**E:/Delete/2025/Project/Unity/6000.0.042f1/mv2508_v0/mv2508/mvproject/Library/** filter=lfs diff=lfs merge=lfs -text
