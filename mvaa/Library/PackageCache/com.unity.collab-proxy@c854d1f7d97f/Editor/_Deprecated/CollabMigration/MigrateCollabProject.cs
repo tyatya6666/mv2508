@@ -1,12 +1,3 @@
-﻿using System;
-using System.ComponentModel;
-
-namespace Unity.PlasticSCM.Editor.CollabMigration
-{
-	// Internal usage. This isn't a public API.
-	[EditorBrowsable(EditorBrowsableState.Never)]
-    [Obsolete("MigrateCollabProject is deprecated and will be removed in a future release", false)]
-    public static class MigrateCollabProject
-    {
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab728a092f728fa5f080909bf61c828bfa36a0e76ffb27f9c485ae95ff5469dd
+size 350

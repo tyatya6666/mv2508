@@ -1,20 +1,3 @@
-﻿using System;
-using System.ComponentModel;
-using Unity.Plastic.Newtonsoft.Json;
-
-// Internal usage. This isn't a public API.
-[EditorBrowsable(EditorBrowsableState.Never)]
-[Obsolete("OrganizationCredentials is deprecated and will be removed in a future release", false)]
-public class OrganizationCredentials
-{
-    // Internal usage. This isn't a public API.
-    [EditorBrowsable(EditorBrowsableState.Never)]
-    [JsonProperty("user")]
-    public string User { get; set; }
-
-    // Internal usage. This isn't a public API.
-    [EditorBrowsable(EditorBrowsableState.Never)]
-    [JsonProperty("password")]
-    public string Password { get; set; }
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f53143fd56b92419b5563362553d4165cabfc9d1791cdb24bc7456c8fc3f4f9
+size 648
